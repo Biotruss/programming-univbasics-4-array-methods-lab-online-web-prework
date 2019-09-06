@@ -1,4 +1,4 @@
-def using_include(array, element)
+hdef using_include(array, element)
   ["wow", "I", "am", "really", "learning", "arrays!"].include?(element)
 end
 
